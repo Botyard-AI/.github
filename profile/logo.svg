@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <rect width="64" height="64" rx="14" fill="#0F1623"/>
+  <!-- Pixel compass / bot face - C8 style -->
+  <!-- Outer ring pixels -->
+  <rect x="24" y="8"  width="16" height="4" fill="#D4622B"/>
+  <rect x="8"  y="24" width="4"  height="16" fill="#D4622B"/>
+  <rect x="52" y="24" width="4"  height="16" fill="#D4622B"/>
+  <rect x="24" y="52" width="16" height="4"  fill="#D4622B"/>
+  <!-- Corner dots -->
+  <rect x="16" y="16" width="4" height="4" fill="#D4622B"/>
+  <rect x="44" y="16" width="4" height="4" fill="#D4622B"/>
+  <rect x="16" y="44" width="4" height="4" fill="#D4622B"/>
+  <rect x="44" y="44" width="4" height="4" fill="#D4622B"/>
+  <!-- Bot face eyes -->
+  <rect x="22" y="26" width="6" height="6" fill="#D4622B"/>
+  <rect x="36" y="26" width="6" height="6" fill="#D4622B"/>
+  <!-- Bot face mouth -->
+  <rect x="22" y="38" width="4" height="4" fill="#D4622B"/>
+  <rect x="30" y="38" width="4" height="4" fill="#D4622B"/>
+  <rect x="38" y="38" width="4" height="4" fill="#D4622B"/>
+</svg>
